@@ -79,8 +79,8 @@ C++ Grundlagenkurs in Vollzeit vom 09.02.2021 bis 12.02.2021 - Trainer: Benedikt
 - [x] continue
 - [x] break
 - [x] return
-- [x] Übunge 1 [LINK](Uebungen/Modul008_Schleifen/Uebung1.cpp)
-- [x] Übunge 2 [LINK](Uebungen/Modul008_Schleifen/Uebung2.cpp)
+- [x] Übunge 1 [LINK](Uebungen/Modul008_Schleifen/Uebung_1.cpp)
+- [x] Übunge 2 [LINK](Uebungen/Modul008_Schleifen/Uebung_2.cpp)
 
 
 ## M009 | FUNKTIONEN UND PARAMETER
@@ -125,7 +125,8 @@ C++ Grundlagenkurs in Vollzeit vom 09.02.2021 bis 12.02.2021 - Trainer: Benedikt
 - [x] Heap vs. Stack
 - [x] unique_ptr<>
 - [x] shared_ptr<>
-- [x] Übungen [LINK](Uebungen/Modul012_Pointer/Uebung.cpp)
+- [x] Übunge 1 [LINK](Uebungen/Modul012_Pointer/Uebung_1.cpp)
+- [x] Übunge 2 [LINK](Uebungen/Modul012_Pointer/Uebung_2.cpp)
 
 
 ## M013 | BEZIEHUNGEN UND VERERBUNG
