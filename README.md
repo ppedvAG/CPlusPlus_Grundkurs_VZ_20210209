@@ -38,7 +38,7 @@ C++ Grundlagenkurs in Vollzeit vom 09.02.2021 bis 12.02.2021 - Trainer: Benedikt
 - [x] Buffer und Flush
 - [x] in Console
 - [x] in Datei/eigene Streams
-- [x] Übungen [LINK] (Uebungen\Modul004_Eingabe_Ausgabe\Uebung.cpp)
+- [x] Übungen [LINK](Uebungen\Modul004_Eingabe_Ausgabe\Uebung.cpp)
 
 
 ## M005 | DATENTYPEN UND KONVERTIERUNGEN
@@ -59,7 +59,7 @@ C++ Grundlagenkurs in Vollzeit vom 09.02.2021 bis 12.02.2021 - Trainer: Benedikt
 - [x] Inkrement und Dekrement
 - [x] relationale Operatoren
 - [x] logische Operatoren
-- [x] Übungen [LINK] (Uebungen\Modul006_Operatoren\Uebung.cpp)
+- [x] Übungen [LINK](Uebungen\Modul006_Operatoren\Uebung.cpp)
 
 
 ## M007 | KONTROLLSTRUKTUREN UND DATENCONTAINER
@@ -69,7 +69,7 @@ C++ Grundlagenkurs in Vollzeit vom 09.02.2021 bis 12.02.2021 - Trainer: Benedikt
 - [x] array<>
 - [x] vector<>
 - [x] deque<>
-- [x] Übungen [LINK] (Uebungen\Modul007_Kontrollstrukturen\Uebung.cpp)
+- [x] Übungen [LINK](Uebungen\Modul007_Kontrollstrukturen\Uebung.cpp)
 
 
 ## M008 | SCHLEIFEN UND SPRUNGMARKEN
@@ -79,8 +79,8 @@ C++ Grundlagenkurs in Vollzeit vom 09.02.2021 bis 12.02.2021 - Trainer: Benedikt
 - [x] continue
 - [x] break
 - [x] return
-- [x] Übunge 1 [LINK] (Uebungen\Modul008_Schleifen\Uebung1.cpp)
-- [x] Übunge 2 [LINK] (Uebungen\Modul008_Schleifen\Uebung2.cpp)
+- [x] Übunge 1 [LINK](Uebungen\Modul008_Schleifen\Uebung1.cpp)
+- [x] Übunge 2 [LINK](Uebungen\Modul008_Schleifen\Uebung2.cpp)
 
 
 ## M009 | FUNKTIONEN UND PARAMETER
@@ -93,7 +93,7 @@ C++ Grundlagenkurs in Vollzeit vom 09.02.2021 bis 12.02.2021 - Trainer: Benedikt
 - [x] Parameterumwandlung
 - [x] Überladung
 - [x] Operator Funktionen
-- [x] Übungen [LINK] (Uebungen\Modul009_Funktionen_Parameter\Uebung.cpp)
+- [x] Übungen [LINK](Uebungen\Modul009_Funktionen_Parameter\Uebung.cpp)
 
 
 ## M010 | NAMENSRÄUME, KLASSEN UND STRUCTS
@@ -105,7 +105,7 @@ C++ Grundlagenkurs in Vollzeit vom 09.02.2021 bis 12.02.2021 - Trainer: Benedikt
 - [x] Attribute und Methoden (Member-Funktionen)
 - [x] Objekte
 - [x] Kontruktor und Destruktor
-- [x] Übungen [LINK] (Uebungen\Modul010_Namensraeume_Klassen\Uebung.cpp)
+- [x] Übungen [LINK](Uebungen\Modul010_Namensraeume_Klassen\Uebung.cpp)
 
 
 ## M011 | STATISCHE UND KONSTANTE MEMBER
@@ -125,7 +125,7 @@ C++ Grundlagenkurs in Vollzeit vom 09.02.2021 bis 12.02.2021 - Trainer: Benedikt
 - [x] Heap vs. Stack
 - [x] unique_ptr<>
 - [x] shared_ptr<>
-- [x] Übungen [LINK] (Uebungen\Modul012_Pointer\Uebung.cpp)
+- [x] Übungen [LINK](Uebungen\Modul012_Pointer\Uebung.cpp)
 
 
 ## M013 | BEZIEHUNGEN UND VERERBUNG
@@ -138,7 +138,7 @@ C++ Grundlagenkurs in Vollzeit vom 09.02.2021 bis 12.02.2021 - Trainer: Benedikt
 - [x] const_cast<>
 - [x] dynamic_cast<>
 - [x] Templates
-- [x] Übungen [LINK] (Uebungen\Modul013_Vererbung\Uebung.cpp)
+- [x] Übungen [LINK](Uebungen\Modul013_Vererbung\Uebung.cpp)
 
 
 ## M014 | FEHLERBEHANDLUNG
@@ -155,14 +155,14 @@ C++ Grundlagenkurs in Vollzeit vom 09.02.2021 bis 12.02.2021 - Trainer: Benedikt
 - [x] Algorithmen
 - [x] auto, constexpr, decltype
 - [x] Lambda-Funktionen
-- [x] Übungen [LINK] (Uebungen\Modul015_STL_Sprachfeatures\Uebung.cpp)
+- [x] Übungen [LINK](Uebungen\Modul015_STL_Sprachfeatures\Uebung.cpp)
 
 
 ## M016 | DATEIEN UND TEXTMANIPULATION
 
 - [x] Datein öffnen und bearbeiten
 - [x] string Manipulation
-- [x] Übungen [LINK] (Uebungen\Modul016_Datenverarbeitung\Uebung.cpp)
+- [x] Übungen [LINK](Uebungen\Modul016_Datenverarbeitung\Uebung.cpp)
 
 
 
